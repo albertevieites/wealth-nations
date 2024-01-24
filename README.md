@@ -17,10 +17,15 @@ Advanced data visualization techniques were applied using Tableau. This helped i
 All visualizations were designed considering color blindness, ensuring accessibility to a wider audience.
 
 ##### Visualizations Created
-Visualization 1: [Description of the first visualization]
-Visualization 2: [Description of the second visualization]
-Visualization 3: [Description of the third visualization]
-Visualization 4: [Description of the fourth visualization]
+Visualization 1: ![Map](assets/map.png)
+
+Visualization 2: ![Top 10](assets/top10.png)
+
+Visualization 3: ![Spreading](assets/spreading.png)
+
+Visualization 4: ![GDP-Life](assets/gdp-life.png)
+
+Visualization 5: ![GDP-Phones](assets/gdp_phones.png)
 
 ### Tools Used
 Microsoft Excel: For initial data cleaning, sorting, filtering, and chart/table creation.
