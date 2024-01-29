@@ -55,7 +55,6 @@ All visualizations were designed considering color blindness, ensuring accessibi
 ![Top 20](assets/excel_top20.png)
 
 *Tableau: Plots*
-
 ![Map](assets/map.png)
 ![Top 10](assets/top10.png)
 ![Spreading](assets/spreading.png)
