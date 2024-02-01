@@ -1,11 +1,11 @@
 # Wealth of Nations Dataset Analysis
 
-### Project Overview
+## Project Overview
 This project focuses on analyzing the Wealth of Nations dataset. It involves a comprehensive process of data cleaning, sorting, and filtering using Excel. This README provides an overview of the methodologies used, the tools involved, and the insights derived from the dataset.
 
-### Dataset
+## Dataset
 
-#### Attribute Information:
+### Attribute Information:
 **GDP**
 
 | Column Name            | Data Type | Description                                          |
@@ -37,20 +37,20 @@ This project focuses on analyzing the Wealth of Nations dataset. It involves a c
 | Smartphone Users       | Numeric   | The total number of smartphone users in the country. |
 | Year of Information    | Numeric   | The year in which the smartphone user data was collected. |
 
-### Features
-#### Data Cleaning and Management in Excel
+## Features
+### Data Cleaning and Management in Excel
 The dataset was initially processed in Excel where it underwent cleaning, sorting, and filtering. This step was crucial for ensuring data quality and usability.
 
-#### Security 
+### Security 
 To ensure data integrity and confidentiality, the Excel workbook was protected with a password.
 
-#### Data Visualization and Analysis
+### Data Visualization and Analysis
 Advanced data visualization techniques were applied using Tableau. This helped in extracting meaningful insights from the dataset.
 
-#### Accessibility 
+### Accessibility 
 All visualizations were designed considering color blindness, ensuring accessibility to a wider audience.
 
-#### Visualizations Created
+### Visualizations Created
 *Excel*
 
 | Table                                          | Chart                                |
@@ -62,16 +62,16 @@ All visualizations were designed considering color blindness, ensuring accessibi
 *Tableau*
 ![Dashboard](assets/dashboard.png)
 
-### Tools Used
+## Tools Used
 Microsoft Excel: For initial data cleaning, sorting, filtering, and chart/table creation.
 
 Tableau: For creating advanced data visualizations.
 
-### Contribution Guidelines
+## Contribution Guidelines
 Contributions are welcome! Please adhere to this project's code of conduct.
 
-### Contact Information
+## Contact Information
 For support or queries, reach out to me at [my email address](mailto:albertevieites@gmail.com).
 
-### Acknowledgements
+## Acknowledgements
 Special thanks to [Yusuf Satilmis](https://github.com/yusufsjustit) for his invaluable assistance in this project.
