@@ -8,33 +8,34 @@ This project focuses on analyzing the Wealth of Nations dataset. It involves a c
 #### Attribute Information:
 **GDP**
 
-*Rank:* Numeric. The position of a country relative to all others based on GDP.
+| Column Name            | Data Type | Description                                          |
+|------------------------|-----------|------------------------------------------------------|
+| Rank                   | Numeric   | The position of a country relative to all others based on GDP. |
+| Country                | String    | The name of the country being referred to.           |
+| GDP - per capita (PPP) | Numeric Currency | The GDP per capita in pounds sterling (£), representing the economic output per person. |
+| Year of Information    | Numeric   | Year in which the GDP data was collected.            |
 
-*Country:* String. The name of the country being referred to. 
-
-*GDP - per capita (PPP):* Numeric Currency.The GDP per capita in pounds sterling (£), representing the economic output per person.
-
-*Year of Information:* Numeric. Year in which the GDP data was collected.
+***
 
 **Life Expectancy**
 
-*Rank:* Numeric. The position of a country relative to all others based on the number of smartphone users.
+| Column Name            | Data Type | Description                                          |
+|------------------------|-----------|------------------------------------------------------|
+| Rank                   | Numeric   | The position of a country relative to all others based on life expectancy. |
+| Country                | String    | The name of the country being referred to.           |
+| Life Expectancy at Birth | Numeric  | The average number of years a newborn is expected to live under current mortality rates. |
+| Date of Information    | Numeric   | The year in which the life expectancy data was collected. |
 
-*Country:* String. The name of the country being referred to. 
-
-*Life Expectancy at birth:* Numeric. The average number of years a newborn is expected to live under current mortality rates.
-
-*Date of Information:* Numeric. The year in which the life expectancy data was collected.
+***
 
 **Smartphones**
 
-*Rank:* Numeric. The position of a country relative to all others based on the number of smartphone users.
-
-*Country:* String. The name of the country being referred to.
-
-*Smartphone Users:* Numeric. The total number of smartphone users in the country.
-
-*Year of Information:* Numeric. The year in which the smartphone user data was collected.
+| Column Name            | Data Type | Description                                          |
+|------------------------|-----------|------------------------------------------------------|
+| Rank                   | Numeric   | The position of a country relative to all others based on the number of smartphone users. |
+| Country                | String    | The name of the country being referred to.           |
+| Smartphone Users       | Numeric   | The total number of smartphone users in the country. |
+| Year of Information    | Numeric   | The year in which the smartphone user data was collected. |
 
 ### Features
 #### Data Cleaning and Management in Excel
