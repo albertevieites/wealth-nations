@@ -73,4 +73,4 @@ Contributions are welcome! Please adhere to this project's code of conduct.
 For support or queries, reach out to me at [my email address](mailto:albertevieites@gmail.com).
 
 ### Acknowledgements
-Special thanks to [Yusuf Satilmis](https://github.com/yusufsjustit) for their invaluable assistance in this project.
+Special thanks to [Yusuf Satilmis](https://github.com/yusufsjustit) for his invaluable assistance in this project.
