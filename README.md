@@ -50,20 +50,16 @@ Advanced data visualization techniques were applied using Tableau. This helped i
 All visualizations were designed considering color blindness, ensuring accessibility to a wider audience.
 
 #### Visualizations Created
-*Excel: Filtered Data and Plot*
+*Excel*
 
 | Table                                          | Chart                                |
 |------------------------------------------------|--------------------------------------|
 | ![Filtered data pic](assets/filtered_data.png) | ![Chart pic](assets/excel_top20.png) |
 
-*Tableau: Plots*
-![Map](assets/map.png)
-![Top 10](assets/top10.png)
-![Spreading](assets/spreading.png)
+<br></br>
 
-| GDP - Life Expectancy                                | GDP - Smartphone Users                                  |
-|------------------------------------------------------|---------------------------------------------------------|
-| ![GDP life expectancy chart](assets/gdp_life_sc.png) | ![GDP Smartphone users chart](assets/gdp_phones_sc.png) |
+*Tableau*
+![Dashboard](assets/dashboard.png)
 
 ### Tools Used
 Microsoft Excel: For initial data cleaning, sorting, filtering, and chart/table creation.
