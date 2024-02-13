@@ -1,7 +1,11 @@
 # Wealth of Nations Dataset Analysis
 
 ## Project Overview
-This project focuses on analyzing the Wealth of Nations dataset. It involves a comprehensive process of data cleaning, sorting, and filtering using Excel. This README provides an overview of the methodologies used, the tools involved, and the insights derived from the dataset.
+This project focuses on analyzing the "Wealth of Nations" dataset, involving a comprehensive process of data cleaning, sorting, and filtering using Excel. In addition to these methodologies, we have enhanced our analysis with the creation of detailed charts in Excel and an interactive dashboard in Tableau. These visualizations provide a deeper understanding of the dataset’s insights, showcasing economic trends and socio-economic indicators across nations.
+
+The Excel charts illuminate key patterns, while the Tableau dashboard offers a dynamic exploration tool, enabling users to filter and visualize data interactively. This approach not only deepens the analytical depth but also makes our findings more accessible to a broader audience.
+
+For more detailed information on our methodologies, tools, and insights, please refer to this README.
 
 ## Dataset
 
